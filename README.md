@@ -1,9 +1,9 @@
 # TravelOnBoardings
-If you download it 
-please add this dependencies 
+If you download it <br>
+please add this dependencies <br><br>
 
-npm install @react-natigation/native
-npm install @react-natigation/stack
-npm install react-native-gesture-handler
-npm install react-natigation/screens
+npm install @react-natigation/native <br>
+npm install @react-natigation/stack <br>
+npm install react-native-gesture-handler <br>
+npm install react-natigation/screens <br>
 
