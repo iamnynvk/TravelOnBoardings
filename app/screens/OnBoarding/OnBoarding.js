@@ -8,10 +8,10 @@ import {
     Animated,
     TouchableOpacity,
 } from 'react-native';
+
 import { images, theme } from '../../constants';
 
 const { onboarding1, onboarding2, onboarding3 } = images;
-
 const { COLORS, FONTS, SIZES } = theme;
 
 const onBoardings = [
